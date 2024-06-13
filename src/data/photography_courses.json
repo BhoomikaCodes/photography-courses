@@ -1,0 +1,105 @@
+{
+    "courses": [
+      {
+      "id": 1,
+      "title": "Introduction to Photography",
+      "slug": "introduction-to-photography",
+      "description": "Learn the basics of photography, including camera settings, composition, and lighting.",
+      "price": 99.99,
+      "instructor": "John Doe",
+      "isFeatured": true,
+      "image": "/courses/introduction-to-photography.jpg"
+      },
+      {
+      "id": 2,
+      "title": "Advanced Photography Techniques",
+      "slug": "advanced-photography-techniques",
+      "description": "Explore advanced techniques such as long exposure, night photography, and HDR imaging.",
+      "price": 109.99,
+      "instructor": "Jane Smith",
+      "isFeatured": false,
+      "image": "/courses/advanced-photography-techniques.jpg"
+      },
+      {
+      "id": 3,
+      "title": "Portrait Photography Mastery",
+      "slug": "portrait-photography-mastery",
+      "description": "Master the art of capturing stunning portraits with this comprehensive course.",
+      "price": 119.99,
+      "instructor": "Emily Johnson",
+      "isFeatured": true,
+      "image": "/courses/portrait-photography.jpg"
+      },
+      {
+      "id": 4,
+      "title": "Landscape Photography",
+      "slug": "landscape-photography",
+      "description": "Discover the techniques to capture breathtaking landscapes.",
+      "price": 129.99,
+      "instructor": "Mike Brown",
+      "isFeatured": false,
+      "image": "/courses/landscape-photography.jpg"
+      },
+      {
+      "id": 5,
+      "title": "Macro Photography",
+      "slug": "macro-photography",
+      "description": "Learn the art of macro photography to capture intricate details.",
+      "price": 139.99,
+      "instructor": "Chris Davis",
+      "isFeatured": false,
+      "image": "/courses/macro-photography.jpg"
+      },
+      {
+      "id": 6,
+      "title": "Photo Editing Fundamentals",
+      "slug": "photo-editing-fundamentals",
+      "description": "Dive into photo editing with this introductory course on the basics of post-processing.",
+      "price": 149.99,
+      "instructor": "Alex Wilson",
+      "isFeatured": true,
+      "image": "/courses/photo-editing.jpg"
+      },
+      {
+      "id": 7,
+      "title": "Creative Photography",
+      "slug": "creative-photography",
+      "description": "Learn creative techniques to enhance your photography skills.",
+      "price": 159.99,
+      "instructor": "Samantha Miller",
+      "isFeatured": false,
+      "image": "/courses/creative-photography.jpg"
+      },
+      {
+      "id": 8,
+      "title": "Studio Lighting Techniques",
+      "slug": "studio-lighting-techniques",
+      "description": "Master studio lighting to create professional-quality photos.",
+      "price": 169.99,
+      "instructor": "Luke Harris",
+      "isFeatured": true,
+      "image": "/courses/studio-lighting.jpg"
+      },
+      {
+      "id": 9,
+      "title": "Street Photography",
+      "slug": "street-photography",
+      "description": "Explore the art of street photography and capture candid moments.",
+      "price": 179.99,
+      "instructor": "Grace Lee",
+      "isFeatured": false,
+      "image": "/courses/streetphotography.jpg"
+      },
+      {
+      "id": 10,
+      "title": "Black and White Photography",
+      "slug": "black-and-white-photography",
+      "description": "Discover the techniques of black and white photography to add depth and emotion to your images.",
+      "price": 189.99,
+      "instructor": "Ethan Moore",
+      "isFeatured": true,
+      "image": "/courses/black-and-white.jpg"
+      }
+      ]
+  }
+  
